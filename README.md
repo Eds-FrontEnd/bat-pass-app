@@ -1,4 +1,4 @@
-# ⚡ Projeto - REACT
+# ⚡ Projeto - REACT NATIVE
 
 ## 🚀 Bem-vindo ao projeto - Bat Pass Generator!
 
